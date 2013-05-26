@@ -7,3 +7,7 @@ Copy "stricted" directory into {mediagoblin root}/mediagoblin/themes/, change "t
     ./bin/gmg theme assetlink
 
 That's it! :)
+
+** Live demo **
+
+Live demo available on [my Mediagoblin instance](http://media.pztrn.name).
